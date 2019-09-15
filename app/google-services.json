@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040981710822",
+    "firebase_url": "https://abayo-fa7b5.firebaseio.com",
+    "project_id": "abayo-fa7b5",
+    "storage_bucket": "abayo-fa7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040981710822:android:1721ae4d313d82a8f3a827",
+        "android_client_info": {
+          "package_name": "com.tx.abayo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040981710822-tiimdc54hj1vh7qmj101tdo91l99h91h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAzM_HT4l1rh6gETe0ChBdCTNGE0P8cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040981710822-tiimdc54hj1vh7qmj101tdo91l99h91h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
